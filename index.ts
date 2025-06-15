@@ -15,3 +15,5 @@ function sum(x:number ,y:number){
 
 let ans=sum(4,5)
 console.log(ans)
+let uday:string="abhay";
+

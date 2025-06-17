@@ -6,7 +6,7 @@ function greet(name) {
 }
 greet("uday");
 function sum(x, y) {
-    f;lfmldfmaslfmdl;fmsdl;fmdsl;f;lfmerfer
+    
     return x + y;
 }
 let ans = sum(4, 5);

@@ -3,7 +3,7 @@ console.log(x)
 
 
 function greet( name:string){
-    kfljdlkfmdslkfslkfs
+ 
     console.log("Hello"+ name)
 
 }

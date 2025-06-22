@@ -12,5 +12,6 @@ function greet(user:Usertype){
 let user:Usertype={
     firstname:"uday bhatnagar",
     lastname:"bhatnagar",
+    f.af./ḍlfdal;fal;f sdlfdfl;f
     age:24
 }

@@ -7,5 +7,5 @@ let user = {
     lastname: "bhatnagar",
     age: 24,
     College:"Moradabad Institute of Technolgy",
-    ffdfdafdfsf
+
 };

@@ -1,7 +1,7 @@
 let x:number=1
 console.log(x)
 
-
+    ``
 function greet( name:string){
     console.log("Hello"+ name)
 

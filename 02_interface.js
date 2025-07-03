@@ -5,5 +5,7 @@ function greet(user) {
 let user = {
     firstname: "uday bhatnagar",
     lastname: "bhatnagar",
-    age: 24
+    age: 24,
+    College:"Moradabad Institute of Technolgy",
+
 };
